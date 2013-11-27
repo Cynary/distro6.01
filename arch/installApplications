@@ -1,0 +1,25 @@
+emacs
+sudo
+dhcpcd
+wpa_supplicant
+mlocate
+krb5
+pam_krb5
+tk
+grub
+gdm
+gnome
+firefox
+xf86-input-synaptics
+xorg-xinit
+xf86-video-intel
+wget
+--needed base-devel
+git
+packer
+flashplugin
+
+Enable at bootup:
+dhcpcd
+wpa_supplicant@wlan0
+gdm
