@@ -66,15 +66,22 @@ ARCH network notes:
 Use wpa_supplicant
 Don't use ifplugd. Use dhcpcd. Don't use dhcpcd@eth0 or dhcpcd@wlan0. Only the dhcpcd service should be enabled.
 
+Note: this should all be in /etc/skel!
 Desktop with icons:
 Use dconf-editor and go to org->gnome->desktop->background->show-desktop-icons
+
+Python/IDLE:
+Remember to alias python2 to python in case we are still using 2.7!
+
+Gnome:
+Maybe include the gnome cheat sheet?
 
 TODO:
 #Tickets owned by user? <- Hack has been made
 Default home to be a good configuration? <- In progress
 Automatically create user? (PAM module?) - we can always use the list from 601
 udev rules for robot
-idle.desktop
+#idle.desktop <- done
 lib601 updater?
 #certificate stealer? <- Hack has been made
 Redo lib601 updater? With mercurial?
