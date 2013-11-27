@@ -1,0 +1,15 @@
+#!/bin/sh
+# Test if it's not one of the system users
+for u in root alpha beta
+do
+	if [ "$USER" == "$u" ]
+	then
+		exit 0;
+	fi
+done
+
+# In case we are in open_session copy over the firefox profile
+mkdir -p /home/$USER/.mozilla;
+cd /home/$USER/.mozilla;
+rm -Rf firefox;
+ssh -K linux.mit.edu "cd ~/.mozilla; tar cvzf - firefox" | tar zxvf -;
