@@ -76,6 +76,11 @@ Remember to alias python2 to python in case we are still using 2.7!
 Gnome:
 Maybe include the gnome cheat sheet?
 
+Mouse considerations:
+Enable disable while typing and tap to click (mouse settings on gnome)
+Configuring the trackpoint:
+http://www.thinkwiki.org/wiki/How_to_configure_the_TrackPoint#xorg.conf.d
+
 TODO:
 #Tickets owned by user? <- Hack has been made
 Default home to be a good configuration? <- In progress
