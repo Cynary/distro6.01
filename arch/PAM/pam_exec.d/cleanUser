@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "HERE2" >> /etc/pam.d/pam_exec.d/debug
+userdel $PAM_USER

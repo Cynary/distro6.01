@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-control-center.desktop" open-window-count="0" score="1" last-seen="1385576463"/>
+    <application id="nautilus-autorun-software.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="firefox.desktop" open-window-count="1" score="55" last-seen="1385577540"/>
+    <application id="nautilus.desktop" open-window-count="1" score="10" last-seen="1385577627"/>
+    <application id="file-roller.desktop" open-window-count="1" score="8" last-seen="1385577768"/>
+    <application id="gnome-info-panel.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="eog.desktop" open-window-count="0" score="0" last-seen="1385577618"/>
+    <application id="dconf-editor.desktop" open-window-count="0" score="12" last-seen="1385576585"/>
+    <application id="gnome-terminal.desktop" open-window-count="1" score="114" last-seen="1385577781"/>
+    <application id="idle2.desktop" open-window-count="0" score="0" last-seen="0"/>
+  </context>
+</application-state>

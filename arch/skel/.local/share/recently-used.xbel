@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/rgomes/hello.py" added="2013-11-27T18:18:04Z" modified="2013-11-27T18:26:15Z" visited="2013-11-27T18:18:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/idle2 %U&apos;" modified="2013-11-27T18:26:15Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgomes/Downloads/lib601.tar.gz" added="2013-11-27T18:29:01Z" modified="2013-11-27T18:39:52Z" visited="2013-11-27T18:29:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2013-11-27T18:29:01Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;file-roller %U&apos;" modified="2013-11-27T18:38:39Z" count="3"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2013-11-27T18:39:52Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgomes/.cache/.fr-xNW94N/lib601-F13-4/soar/media/wireless_active.gif" added="2013-11-27T18:39:29Z" modified="2013-11-27T18:39:29Z" visited="2013-11-27T18:39:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2013-11-27T18:39:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgomes/.cache/.fr-Oi20j1/lib601-F13-4/soar/media/simulator.gif" added="2013-11-27T18:39:33Z" modified="2013-11-27T18:39:33Z" visited="2013-11-27T18:39:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2013-11-27T18:39:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgomes/.cache/.fr-VzzwFp/lib601-F13-4/soar/media/brain.gif" added="2013-11-27T18:39:38Z" modified="2013-11-27T18:39:38Z" visited="2013-11-27T18:39:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2013-11-27T18:39:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgomes/.cache/.fr-o7zbfS/lib601-F13-4/soar/media/brain_active.gif" added="2013-11-27T18:39:39Z" modified="2013-11-27T18:39:39Z" visited="2013-11-27T18:39:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2013-11-27T18:39:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgomes/.cache/.fr-JaO7uo/lib601-F13-4/soar/media/joystick.gif" added="2013-11-27T18:39:41Z" modified="2013-11-27T18:39:41Z" visited="2013-11-27T18:39:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2013-11-27T18:39:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgomes/.cache/.fr-UVQonY/lib601-F13-4/soar/media/joystick_active.gif" added="2013-11-27T18:39:42Z" modified="2013-11-27T18:39:42Z" visited="2013-11-27T18:39:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2013-11-27T18:39:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgomes/.cache/.fr-j86JHB/lib601-F13-4/soar/media/oscillo.gif" added="2013-11-27T18:39:43Z" modified="2013-11-27T18:39:43Z" visited="2013-11-27T18:39:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2013-11-27T18:39:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgomes/.cache/.fr-crlwRi/lib601-F13-4/soar/media/oscillo_active.gif" added="2013-11-27T18:39:45Z" modified="2013-11-27T18:39:45Z" visited="2013-11-27T18:39:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2013-11-27T18:39:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgomes/.cache/.fr-XbHet3/lib601-F13-4/soar/media/robot.gif" added="2013-11-27T18:39:46Z" modified="2013-11-27T18:39:46Z" visited="2013-11-27T18:39:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2013-11-27T18:39:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgomes/.cache/.fr-Nf8JfV/lib601-F13-4/soar/media/start.gif" added="2013-11-27T18:40:10Z" modified="2013-11-27T18:40:10Z" visited="2013-11-27T18:40:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2013-11-27T18:40:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgomes/.cache/.fr-pGuIcP/lib601-F13-4/soar/media/stop_active.gif" added="2013-11-27T18:40:14Z" modified="2013-11-27T18:40:14Z" visited="2013-11-27T18:40:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2013-11-27T18:40:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgomes/.cache/.fr-3A6EAN/lib601-F13-4/soar/media/wireless.gif" added="2013-11-27T18:40:15Z" modified="2013-11-27T18:40:15Z" visited="2013-11-27T18:40:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2013-11-27T18:40:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgomes/.cache/.fr-jwZ0kQ/lib601-F13-4/soar/media/step.gif" added="2013-11-27T18:40:17Z" modified="2013-11-27T18:40:17Z" visited="2013-11-27T18:40:18.431780Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2013-11-27T18:40:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

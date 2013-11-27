@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=SoaR
+Comment=Snakes on a Robot
+Exec=/usr/bin/soar
+Terminal=false
+Type=Application
+Categories=Development;
+StartupNotify=true

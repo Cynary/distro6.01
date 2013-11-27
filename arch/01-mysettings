@@ -1,0 +1,5 @@
+[org/gnome/login-screen]
+banner-message-enable=true
+banner-message-text='Welcome to the 6.01 Laptop'
+disable-user-list=true
+disable-restart-buttons=false

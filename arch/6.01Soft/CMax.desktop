@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=CMax
+Comment=Circuitus Maximus
+Exec=/usr/bin/CMax
+Terminal=false
+Type=Application
+Categories=Development;
+StartupNotify=true

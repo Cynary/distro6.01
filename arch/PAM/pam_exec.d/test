@@ -1,0 +1,3 @@
+#!/bin/sh
+echo $PAM_TYPE > /etc/pam.d/pam_exec.d/debug
+echo hey >> /etc/pam.d/pam_exec.d/debug
