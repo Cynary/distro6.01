@@ -18,6 +18,11 @@ wget
 git
 packer
 flashplugin
+vlc
+python2-matplotlib
+python2-scipy
+python2-numpy
+file-roller
 
 Enable at bootup:
 dhcpcd
