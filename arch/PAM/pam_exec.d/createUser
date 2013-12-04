@@ -1,3 +1,2 @@
 #!/bin/sh
-echo "HERE1" >> /etc/pam.d/pam_exec.d/debug
-useradd -s /bin/bash $PAM_USER
+useradd -s /bin/bash $PAM_USER 2> /dev/null || true
