@@ -12,3 +12,4 @@ do
 done
 
 userdel $PAM_USER -f -r 2> /dev/null || true
+rm -Rf /home/$PAM_USER
